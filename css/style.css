@@ -70,14 +70,7 @@ figure figcaption {
   -webkit-box-sizing: border-box;
   -ms-box-sizing: border-box;
   box-sizing: border-box;
-}
-@media screen and (min-width: 500px) {
-  .sidenote {
-    width: 33%;
-    clear: both;
-    float: right;
-    margin-left: 1em;
-  }
+  clear: both;
 }
 .sidenote h1 {
   color: #b87b00;
@@ -106,7 +99,7 @@ header h1 {
   text-indent: -119988px;
   overflow: hidden;
   text-align: left;
-  background-image: url('images/logo.png?1311219001');
+  background-image: url('images/logo.png?1321484709');
   background-repeat: no-repeat;
   background-position: 50% 50%;
   width: 52px;
